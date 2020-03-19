@@ -44,10 +44,10 @@ h1 {
 }
 #Heading1
 {
-   color: #000000;
-   font-family: 'Sacramento', cursive;
-   font-weight: bold;
-   font-size: 32px;
-   margin: 0;
-   text-align: center;
+    color: #000000;
+    font-family: "Sacramento";
+    font-weight: bold;
+    font-size: 32px;
+    margin: 0;
+    text-align: center;
 }
